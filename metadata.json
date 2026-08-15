@@ -1,0 +1,6 @@
+{
+  "name": "Ngữ Pháp HSK 1 - Học Tiếng Trung Cơ Bản",
+  "description": "Nền tảng toàn diện học và luyện tập ngữ pháp, mẫu câu, từ vựng và bài tập HSK 1 Tiếng Trung có phát âm chuẩn, flashcards, bài kiểm tra tương tác và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
